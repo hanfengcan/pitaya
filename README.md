@@ -25,3 +25,7 @@ More information can be found [here](https://simulatedgreg.gitbooks.io/electron-
 ---
 
 This project was generated from [electron-vue](https://github.com/SimulatedGREG/electron-vue) using [vue-cli](https://github.com/vuejs/vue-cli). Documentation about this project can be found [here](https://simulatedgreg.gitbooks.io/electron-vue/content/index.html).
+
+## 这里才是正文
+
+一个electron的练手项目,详细内容发表在简书了,感兴趣的可以看看[electron实战练习](http://www.jianshu.com/nb/12542112)
